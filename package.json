@@ -1,0 +1,18 @@
+{
+  "name": "fakenewz",
+  "version": "1.0.0",
+  "description": "Create fake news that can unfurl realistically so you can prank your pals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt McArdle",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "firebase": "^10.12.1",
+    "firebase-admin": "^12.1.1"
+  }
+}
